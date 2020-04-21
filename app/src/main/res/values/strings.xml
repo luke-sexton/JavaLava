@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Java Lava</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insert_logo_here">INSERT LOGO HERE</string>
+    <string name="play">PLAY!</string>
+    <string name="level">LEVEL:</string>
+
+
+    <!-- Levels for GameFragment Spinner-->
+    <string-array name="levels_array">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Expert</item>
+    </string-array>
+
+</resources>
